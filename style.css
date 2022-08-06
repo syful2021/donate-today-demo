@@ -1,0 +1,73 @@
+/* 1st section */
+
+.top-bg-image{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    margin: 0%;
+    padding: 0%;
+    align-self: center;
+}
+.top-div{
+    width: 100%;
+    height: 100%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0,5 );
+
+}
+#donate-now-link{
+    
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5%;
+    
+}
+#first-heading{
+    color: aliceblue;
+    font-size: 60px;
+}
+#first-p{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    font-size: 50px;
+    color: red;
+    text-align: center;
+
+}
+.flexible-container{
+    display:  flex;
+    border-bottom: 150px ;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+.paying{
+    text-align: center;
+    display: flex;
+    border-bottom: 100px;
+
+        width: 4%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 5%;
+        margin-top: 0%;
+        padding: 5%;
+        padding-bottom: 3%;
+        /* box-shadow: 10px 10px 40px gray; */
+        border-top: 15px;
+        border-bottom: 15px;
+        border-left: 10px;
+        border-right: 10px;
+        box-shadow:  10px 10px 10px 10px  rgb(135, 115, 115);
+        border-radius: 4%;
+}
