@@ -76,8 +76,11 @@ p{
         box-shadow: none;
         background-color:  rgb(237, 233, 232);
 }
+/* border color added*/
+
 #five-hundred{
-    background-color:  rgb(175, 113, 99);
+    background-color:  rgb(102, 155, 61);
+    border: 3px solid rgb(216, 15, 22);
 }
 
 #horizontal{
